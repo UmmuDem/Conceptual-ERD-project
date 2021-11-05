@@ -1,4 +1,4 @@
-# Conceptual-ERD-project-ENTERTAINMENT
+#CONCEPTUAL ERD PROJECT - ENTERTAINMENT
 data_analytics_ironhackoct21
 
 OVERVIEW
